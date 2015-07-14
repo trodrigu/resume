@@ -1,2 +1,2 @@
 # resume
-My resume as a LaTex file
+My resumes and cover letters as a LaTex files.
